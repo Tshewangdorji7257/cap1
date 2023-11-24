@@ -1,7 +1,7 @@
 import os
 import time
 
-# List of file paths you want to open
+# List of file paths want to open
 file_paths = [
     r"C:\Users\Damchey\Documents",
     r"C:\Users\Damchey\OneDrive\Pictures\Screenshots",
